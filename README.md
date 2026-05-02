@@ -9,6 +9,7 @@
 - ⚙️ Specialized in **ASP.NET Core**, **REST APIs**, and **Entity Framework Core**
 - 🧩 Strong experience with **Clean Architecture**, **LINQ**, and **SQL Server**
 - 🚀 Focused on performance, maintainability, and best practices
+- 🌐 Portfolio: [Ahmed Samy Portfolio](https://ahmed-samy-backend-dev.netlify.app/)<br>
  
 
 
