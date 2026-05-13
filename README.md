@@ -11,7 +11,7 @@
 - 🚀 Focused on performance, maintainability, and best practices
 - 🌐 Portfolio: [Ahmed Samy Portfolio](https://ahmed-samy-backend-dev.netlify.app/)<br>
 
----
+
 ## 📄 Resume
 <p align="center">
  
@@ -21,7 +21,7 @@
 </p>
 
 
----
+
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -33,38 +33,38 @@
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ahmed-samy289&layout=compact&theme=tokyonight" height="170"/><br>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmed-samy289&count_private=true&show_icons=true&theme=tokyonight" height="170"/>
+  <img 
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ahmed-samy289&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmed-samy289&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" 
+    height="170"
+  />
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-samy289&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-samy289&theme=tokyonight&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&hide_border=true" height="170"/>
 </p>
-
----
 
 ## 📈 Contribution Graph 
 
 <div align="center">
-   <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-samy289&theme=tokyo-night" /> </p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-samy289&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
 </div>
 
----
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsamyegy2030@gmail.com)
