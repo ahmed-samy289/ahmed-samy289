@@ -10,7 +10,15 @@
 - 🧩 Strong experience with **Clean Architecture**, **LINQ**, and **SQL Server**
 - 🚀 Focused on performance, maintainability, and best practices
 - 🌐 Portfolio: [Ahmed Samy Portfolio](https://ahmed-samy-backend-dev.netlify.app/)<br>
+
+---
+## 📄 Resume
+<p align="center">
  
+<a href="https://drive.google.com/file/d/1GucUQUkpbGknSJ5GNtaRey-aVH13j97A/view?usp=sharing">
+  <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+</p>
 
 
 ---
