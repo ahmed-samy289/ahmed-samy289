@@ -1,26 +1,19 @@
-
-
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ahmed%20Samy&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Backend%20.Net%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
     <h3 align="center">🎓 IT Student @ FCI_ZU | 🚀 .NET Trainee @ ITI</h3>
 
 ## 🧠 About Me
-
 - 💻 Backend .NET Developer passionate about building scalable and secure systems
 - ⚙️ Specialized in **ASP.NET Core**, **REST APIs**, and **Entity Framework Core**
 - 🧩 Strong experience with **Clean Architecture**, **LINQ**, and **SQL Server**
 - 🚀 Focused on performance, maintainability, and best practices
 - 🌐 Portfolio: [Ahmed Samy Portfolio](https://ahmed-samy-backend-dev.netlify.app/)<br>
 
-
 ## 📄 Resume
 <p align="center">
- 
 <a href="https://drive.google.com/file/d/1GucUQUkpbGknSJ5GNtaRey-aVH13j97A/view?usp=sharing">
   <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 </p>
-
-
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -37,8 +30,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
 
 ## 📊 GitHub Stats
 
@@ -64,7 +55,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-samy289&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
 </div>
-
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsamyegy2030@gmail.com)
