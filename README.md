@@ -12,7 +12,7 @@
 
 ## 📄 Resume
 <p align="center">
-<a href="https://drive.google.com/file/d/1GucUQUkpbGknSJ5GNtaRey-aVH13j97A/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1OFgctsD3qiy_0tUfipiIx9ipomObggSK/view?usp=drive_link">
   <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 </p>
