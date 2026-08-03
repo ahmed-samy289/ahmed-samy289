@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ahmed%20Samy&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Backend%20.Net%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-    <h3 align="center">🎓 IT Student @ FCI_ZU | 🚀 .NET Trainee @ ITI</h3>
+    <h3 align="center">Software Engineer | .NET Backend Developer</h3>
 
 
 ## 🧠 About Me
